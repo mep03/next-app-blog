@@ -24,7 +24,7 @@ export function Header() {
               aria-expanded="false"
             >
               <span className="sr-only">Open main menu</span>
-              <MenuIcon className="w-5 h-5" />
+              <MenuIcon className="w-5 h-5 text-black dark:text-white" />
             </button>
           </div>
           <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
